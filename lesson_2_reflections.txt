@@ -5,3 +5,20 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	Staging area is the place you want to specify which files you will add to the repository. It is used to define a specific file or folder you want to add and not the whole working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	after git add, you need to git commit to ensure that the logical change has been copied to the repository.
+
+What are some situations when brachnes would be helpful in keeping your history organized? How would branches help?
+
+	It allows you to make a copy of the file without making any changes to the master file, which you can add new feature or try out new stuffs.
+
+How do the diagrams help you visualize the branch structure
+
+	You know where you are on the commits using the diagram, this is useful for complex files which has multiple branches.
+
+What is the result of merging two braches together? Why do we reprsent it in the diagram the way we do?
+
+	The extended branch is merged into the main branch. It is much easier to visualize how the merging process of git thru diagramming.
+
