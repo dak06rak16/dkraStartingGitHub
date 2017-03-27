@@ -1,1 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+	When you want all the files to be sycnhronized from your local to remote reporsitory like github
+
+Describe the differences between forks, clones and branches. When would you use one instead of another?
+
+	Forking is copying a repository on github, cloning is pulling down repository on your local (remote), branching is making another commit in a master file
+
+
