@@ -22,3 +22,7 @@ What is the result of merging two braches together? Why do we reprsent it in the
 
 	The extended branch is merged into the main branch. It is much easier to visualize how the merging process of git thru diagramming.
 
+What are the pros and ocns of Git's automatic merging vs. always oding merges manually?
+
+	-
+
